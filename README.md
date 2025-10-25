@@ -41,5 +41,11 @@
 🌍 Connect with Me
 <p align="center"> <a href="mailto:robinresan63@gmail.com"><img src="https://img.shields.io/badge/Email-robinresan63@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/robin-buldu-a52845307/"><img src="https://img.shields.io/badge/LinkedIn-Robin%20Buldu-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <hr style="border: 2px solid #008080; border-radius: 5px;">
 
+## Live Code
+<p align="center">
+  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="500" />
+</p>
+
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=robinbuldu&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" /> <br/><br/> <img src="https://nirzak-streak-stats.vercel.app/?user=robinbuldu&theme=shadow_green&hide_border=false" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinbuldu&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> </p> <hr style="border: 2px solid #008080; border-radius: 5px;"> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004c4c,100:008080&height=80&section=footer"/> </p>
