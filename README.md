@@ -43,7 +43,7 @@
 
 ## Live Code
 <p align="center">
-  <img src=["https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif"](https://i.gifer.com/8nB.gif) width="500" />
+  <img src="https://i.gifer.com/8nB.gif" width="500" alt="The Sopranos GIF">
 </p>
 
 
