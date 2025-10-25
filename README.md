@@ -29,13 +29,13 @@
   <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" />
 
   <!-- Office -->
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
 <hr style="border: 2px solid #008080; border-radius: 5px;">
+
 
 
 🌍 Connect with Me
